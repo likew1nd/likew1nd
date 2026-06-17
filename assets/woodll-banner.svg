@@ -1,0 +1,35 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="28" fill="#070B12"/>
+  <path d="M0 0H1200V360H0V0Z" fill="url(#bg)"/>
+  <circle cx="1000" cy="-20" r="260" fill="#2F81F7" fill-opacity="0.18"/>
+  <circle cx="180" cy="360" r="240" fill="#3FB950" fill-opacity="0.12"/>
+  <g filter="url(#glow)">
+    <path d="M222 105C258 68 318 68 354 105L395 146C431 182 431 241 395 277C359 313 300 313 264 277L180 193L222 105Z" fill="#2F81F7"/>
+    <path d="M354 105C318 68 258 68 222 105L181 146C145 182 145 241 181 277C217 313 276 313 312 277L396 193L354 105Z" fill="#3FB950" fill-opacity="0.92"/>
+    <path d="M288 86L389 276H335L288 185L241 276H187L288 86Z" fill="#9CDCFE"/>
+  </g>
+  <text x="500" y="138" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700">WOODLL</text>
+  <text x="502" y="188" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="25">Software Authorization Console</text>
+  <text x="502" y="236" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="21">ThinkPHP · Card Keys · API Verify · Admin Dashboard</text>
+  <rect x="502" y="266" width="154" height="40" rx="20" fill="#238636"/>
+  <text x="532" y="292" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Open Source</text>
+  <rect x="674" y="266" width="128" height="40" rx="20" fill="#1F6FEB"/>
+  <text x="706" y="292" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Builder</text>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#101722"/>
+      <stop offset="1" stop-color="#07111F"/>
+    </linearGradient>
+    <filter id="glow" x="111" y="43" width="354" height="304" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="8"/>
+      <feGaussianBlur stdDeviation="18"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.188 0 0 0 0 0.506 0 0 0 0 0.967 0 0 0 0.36 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_1"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_1" result="shape"/>
+    </filter>
+  </defs>
+</svg>
