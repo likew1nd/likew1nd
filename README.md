@@ -1,57 +1,47 @@
-<div align="center">
+<h1 align="left">Hi, I'm Woodll 👋</h1>
 
-![WOODLL Banner](assets/woodll-banner.svg)
+**Full Stack Developer / ThinkPHP Builder / Software Authorization Console Maker**
 
-### 独立开发者 / PHP & ThinkPHP / Web Console Builder
+- 🧩 I build admin consoles, software authorization systems, card-key workflows, and install wizards.
+- 🚀 Currently working on [WOODLL App](https://github.com/likew1nd/Woodll-App), a ThinkPHP 8 authorization management console.
+- 🛠️ Focused on PHP, ThinkPHP, MySQL, Vue, deployment automation, and practical developer tools.
+- ✨ I like clean releases: readable docs, deployable packages, and interfaces that feel calm to use.
 
-把软件授权、卡密验证、后台控制台和部署流程做得更清晰、更稳定、更好用。
+## 🛠️ Tech Stack
 
 <p>
-  <a href="https://github.com/likew1nd/Woodll-App">
-    <img src="https://img.shields.io/badge/WOODLL_App-v1.0.0-2f81f7?style=for-the-badge" alt="WOODLL App" />
-  </a>
-  <img src="https://img.shields.io/badge/PHP-8.x-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,nginx,html,css,js,vue,nodejs,bootstrap,linux,git,github,docker,vscode&perline=14" alt="Tech stack" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/ThinkPHP-8-15b8a6?style=for-the-badge" alt="ThinkPHP" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Nginx-Deploy-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Layui-Admin_UI-16baaa?style=for-the-badge" alt="Layui" />
+  <img src="https://img.shields.io/badge/BaoTa-Deploy-2f81f7?style=for-the-badge" alt="BaoTa" />
+  <img src="https://img.shields.io/badge/GitHub-Releases-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases" />
+</p>
+
+## 📊 GitHub Profile
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likew1nd&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&title_color=ff6ea8" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=likew1nd&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&title_color=ff6ea8&rank_icon=github" alt="GitHub stats" />
 </p>
 
 <p>
-  <a href="https://github.com/likew1nd/Woodll-App">Project</a>
-  ·
-  <a href="https://github.com/likew1nd/Woodll-App/releases/tag/v1.0.0">Release</a>
-  ·
-  <a href="https://github.com/likew1nd?tab=repositories">Repositories</a>
+  <img src="https://streak-stats.demolab.com?user=likew1nd&theme=dark&hide_border=false&border=30363d&ring=ff9800&fire=ff9800&currStreakLabel=ff9800" alt="GitHub streak" />
 </p>
 
-</div>
-
----
-
-## About
-
-我主要关注 Web 后台、软件授权、卡密系统、用户体系、接口验证、支付配置和轻量化安装部署。  
-喜欢把复杂业务拆成可维护的模块，再打磨成可以直接交付的产品。
-
-```text
-Backend      PHP, ThinkPHP, REST-style APIs
-Database     MySQL
-Frontend     HTML, CSS, JavaScript, Bootstrap, Layui, Vue
-Deploy       Nginx, Apache, BaoTa Panel, GitHub Releases
-Focus        Authorization, Card Keys, Admin Console, Install Wizard
-```
-
-## Featured
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3>WOODLL App</h3>
-      <p>基于 ThinkPHP 8 的授权管理与后台控制台系统，包含安装向导、后台登录、软件管理、卡密管理、用户管理、接口验证和支付配置。</p>
+      <p>ThinkPHP 8 授权管理与后台控制台系统，包含安装向导、后台登录、软件管理、卡密管理、用户管理、接口验证和支付配置。</p>
       <p>
         <a href="https://github.com/likew1nd/Woodll-App">Repository</a>
         ·
-        <a href="https://github.com/likew1nd/Woodll-App/releases/tag/v1.0.0">Download</a>
+        <a href="https://github.com/likew1nd/Woodll-App/releases/tag/v1.0.0">Release</a>
       </p>
     </td>
     <td width="50%">
@@ -64,26 +54,15 @@ Focus        Authorization, Card Keys, Admin Console, Install Wizard
   </tr>
 </table>
 
-## What I Build
+## 🧭 What I Build
 
 - 授权管理系统：卡密、用户、版本、接口验证和业务配置。
-- 后台控制台：清晰的管理入口、数据列表、记录查询和配置面板。
+- 后台控制台：数据列表、记录查询、配置面板和业务管理入口。
 - 安装部署体验：网页安装向导、环境配置、伪静态说明和 Release 安装包。
 - 项目本地化：中文化、界面优化、默认主题调整和使用体验改进。
 
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=likew1nd&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likew1nd&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-</div>
-
 ---
 
-<div align="center">
-
-**Building practical tools, one clean release at a time.**
-
-</div>
+<p align="center">
+  <b>Building practical tools, one clean release at a time.</b>
+</p>
